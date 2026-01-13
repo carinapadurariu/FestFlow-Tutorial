@@ -1,5 +1,5 @@
-Implementing an Event-Driven Microservices Architecture with RabbitMQ and Kafka
 
+# Implementing an Event-Driven Microservices Architecture with RabbitMQ and Kafka
 
 Technologies: Python (FastAPI), RabbitMQ, Kafka, Docker
 
